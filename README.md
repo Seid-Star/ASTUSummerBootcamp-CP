@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
+## Hash Table
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
+## String
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
