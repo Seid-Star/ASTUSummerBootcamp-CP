@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
