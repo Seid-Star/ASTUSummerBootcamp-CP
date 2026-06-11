@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -38,12 +39,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 ## Segment Tree
 |  |
 | ------- |
@@ -61,4 +64,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
