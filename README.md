@@ -56,6 +56,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
+| [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -64,6 +65,7 @@
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
+| [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3612-process-string-with-special-operations-i) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
