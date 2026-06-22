@@ -36,6 +36,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3689-maximum-total-subarray-value-i) |
@@ -54,6 +55,7 @@
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -61,6 +63,7 @@
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3612-process-string-with-special-operations-i) |
@@ -83,6 +86,7 @@
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
