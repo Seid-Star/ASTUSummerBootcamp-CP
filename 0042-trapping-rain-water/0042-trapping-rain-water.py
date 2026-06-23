@@ -17,6 +17,3 @@ class Solution:
                 count+=b-e
                 r-=1
         return count
-        
-
-        
