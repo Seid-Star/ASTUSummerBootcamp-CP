@@ -52,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
@@ -63,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -165,6 +167,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
