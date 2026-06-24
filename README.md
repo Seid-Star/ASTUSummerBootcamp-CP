@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
@@ -163,6 +165,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
