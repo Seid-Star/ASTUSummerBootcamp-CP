@@ -59,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
