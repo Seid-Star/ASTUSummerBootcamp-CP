@@ -128,6 +128,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -220,4 +221,8 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
