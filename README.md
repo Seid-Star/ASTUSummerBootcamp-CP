@@ -36,6 +36,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3689-maximum-total-subarray-value-i) |
@@ -133,6 +134,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
@@ -144,6 +146,7 @@
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -172,6 +175,7 @@
 | [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +201,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,4 +252,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
