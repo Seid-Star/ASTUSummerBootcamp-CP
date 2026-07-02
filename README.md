@@ -41,6 +41,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
@@ -180,6 +182,7 @@
 | [0867-transpose-matrix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,4 +266,12 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
