@@ -65,6 +65,7 @@
 | [1840-maximum-building-height](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1840-maximum-building-height) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
