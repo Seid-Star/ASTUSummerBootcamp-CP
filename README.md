@@ -218,11 +218,13 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
@@ -282,12 +284,14 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
