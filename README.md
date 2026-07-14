@@ -310,4 +310,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
