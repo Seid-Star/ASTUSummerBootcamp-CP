@@ -51,6 +51,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Greedy
 |  |
@@ -74,6 +75,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -124,6 +126,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -186,6 +190,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -314,6 +319,7 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
