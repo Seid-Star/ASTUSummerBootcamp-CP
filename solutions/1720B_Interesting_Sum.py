@@ -1,5 +1,5 @@
-c=int(input())
-for x in range(c):
+r=int(input())
+for x in range(r):
     b=int(input())
     arr=list(map(int,input().split()))
     arr.sort()
