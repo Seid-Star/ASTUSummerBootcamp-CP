@@ -29,6 +29,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
 | [1260-shift-2d-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1732-find-the-highest-altitude) |
@@ -173,6 +174,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -204,6 +206,7 @@
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
