@@ -18,6 +18,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
@@ -64,6 +65,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -153,6 +155,7 @@
 | [0141-linked-list-cycle](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
@@ -203,6 +206,7 @@
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
