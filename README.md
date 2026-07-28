@@ -132,6 +132,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -218,6 +219,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -367,4 +369,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
