@@ -72,6 +72,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -84,6 +85,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -133,6 +135,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3517-smallest-palindromic-rearrangement-i) |
