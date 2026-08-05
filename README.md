@@ -56,6 +56,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -326,6 +327,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -345,6 +347,7 @@
 | [0724-find-pivot-index](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
