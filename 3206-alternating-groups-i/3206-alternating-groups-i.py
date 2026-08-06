@@ -7,9 +7,8 @@ class Solution:
         if colors[1]==colors[a-1] and colors[0]!=colors[1]:
             count+=1
         for i in range(1, a - 1):
-            if colors[i - 1] == colors[i + 1] and colors[i - 1] != colors[i]:
-                count += 1
-
+            if colors[i-1]==colors[i+1] and colors[i-1]!=colors[i]:
+                count+=1
         return count
         
         
