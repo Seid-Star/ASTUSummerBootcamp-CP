@@ -154,6 +154,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -331,6 +332,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3206-alternating-groups-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
