@@ -25,6 +25,7 @@
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -125,6 +127,7 @@
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
@@ -217,6 +220,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -251,6 +255,7 @@
 | [0475-heaters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
@@ -335,6 +340,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
