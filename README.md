@@ -33,6 +33,7 @@
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
+| [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
@@ -98,6 +99,7 @@
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -300,6 +302,7 @@
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -372,6 +375,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1732-find-the-highest-altitude) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3312-sorted-gcd-pair-queries) |
@@ -463,6 +467,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
@@ -472,4 +477,12 @@
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
