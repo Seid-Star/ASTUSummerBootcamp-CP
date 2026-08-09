@@ -50,6 +50,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -349,6 +350,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3206-alternating-groups-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -462,4 +464,12 @@
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
