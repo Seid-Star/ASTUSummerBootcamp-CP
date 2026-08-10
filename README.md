@@ -101,6 +101,7 @@
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -305,6 +306,7 @@
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -469,6 +471,7 @@
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 ## Queue
 |  |
 | ------- |
@@ -481,8 +484,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
