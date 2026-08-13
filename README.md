@@ -50,6 +50,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -168,6 +169,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
@@ -222,6 +224,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -504,4 +507,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
