@@ -36,6 +36,7 @@
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -89,6 +90,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
+| [1386-cinema-seat-allocation](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -147,6 +149,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1386-cinema-seat-allocation) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -300,6 +303,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
