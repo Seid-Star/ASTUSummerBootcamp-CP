@@ -46,6 +46,7 @@
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1840-maximum-building-height](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -117,6 +118,7 @@
 | [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
@@ -342,6 +344,7 @@
 | [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1563-stone-game-v](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -416,6 +419,7 @@
 | [0724-find-pivot-index](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
@@ -512,6 +516,7 @@
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 ## Queue
@@ -527,12 +532,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
