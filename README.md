@@ -505,6 +505,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0141-linked-list-cycle) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
 | ------- |
