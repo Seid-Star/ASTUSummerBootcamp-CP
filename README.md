@@ -117,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
