@@ -194,6 +194,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0680-valid-palindrome-ii) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
