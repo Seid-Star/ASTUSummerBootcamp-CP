@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
@@ -595,4 +597,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
