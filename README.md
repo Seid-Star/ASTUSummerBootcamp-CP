@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
@@ -370,6 +371,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0940-distinct-subsequences-ii) |
