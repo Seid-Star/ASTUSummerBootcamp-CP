@@ -188,6 +188,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
+| [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -227,6 +228,7 @@
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -352,6 +354,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
+| [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -423,6 +426,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
@@ -443,6 +447,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
+| [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -586,6 +591,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
