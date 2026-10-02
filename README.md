@@ -220,6 +220,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
@@ -405,6 +406,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -600,6 +602,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -674,6 +677,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
