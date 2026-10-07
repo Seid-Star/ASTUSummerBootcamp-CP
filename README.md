@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0162-find-peak-element) |
@@ -422,6 +423,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
@@ -549,6 +551,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
