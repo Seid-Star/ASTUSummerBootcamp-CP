@@ -187,6 +187,7 @@
 | [0141-linked-list-cycle](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
@@ -227,6 +228,7 @@
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -357,6 +359,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
