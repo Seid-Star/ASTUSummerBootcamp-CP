@@ -225,6 +225,7 @@
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0678-valid-parenthesis-string) |
@@ -463,6 +464,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -609,6 +611,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3348-smallest-divisible-digit-product-ii) |
