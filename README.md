@@ -224,6 +224,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
@@ -444,6 +445,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0856-score-of-parentheses) |
@@ -692,6 +694,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0856-score-of-parentheses) |
