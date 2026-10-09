@@ -117,6 +117,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1927-sum-game) |
@@ -249,6 +250,7 @@
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -460,6 +462,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
@@ -709,6 +712,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
