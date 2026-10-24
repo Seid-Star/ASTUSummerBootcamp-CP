@@ -69,6 +69,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2381-shifting-letters-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2381-shifting-letters-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -280,6 +281,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2381-shifting-letters-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2381-shifting-letters-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -579,6 +581,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2381-shifting-letters-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2381-shifting-letters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3737-count-subarrays-with-majority-element-i) |
