@@ -172,6 +172,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2409-count-days-spent-together](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -282,6 +283,7 @@
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2381-shifting-letters-ii) |
+| [2409-count-days-spent-together](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
