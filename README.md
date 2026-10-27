@@ -257,6 +257,7 @@
 | [0020-valid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0242-valid-anagram) |
@@ -501,6 +502,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1021-remove-outermost-parentheses) |
