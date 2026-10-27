@@ -29,6 +29,7 @@
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -216,6 +217,7 @@
 | [0242-valid-anagram](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0763-partition-labels) |
@@ -503,6 +505,7 @@
 | [0020-valid-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1021-remove-outermost-parentheses) |
@@ -517,6 +520,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0496-next-greater-element-i) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Depth-First Search
