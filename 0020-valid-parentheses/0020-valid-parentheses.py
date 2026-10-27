@@ -1,32 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        b = []
+        arr=[]
         for i in s:
-            if i == '(':
-                b.append('(')     
-            elif i == ')':
-                if len(b) == 0:
+            if i=='(':
+                arr.append(')')
+            elif i=='[':
+                arr.append(']')
+            elif i=='{':
+                arr.append('}')
+            else:
+
+                if not arr or arr.pop()!=i:
                     return False
-                if b[-1] != '(':
-                    return False
-                b.pop()       
-            elif i == '{':
-                b.append('{') 
-            elif i == '}':
-                if len(b) == 0:
-                    return False
-                if b[-1] != '{':
-                    return False
-                b.pop()  
-            elif i == '[':
-                b.append('[')
-            
-            elif i == ']':
-                if len(b) == 0:
-                    return False
-                if b[-1] != '[':
-                    return False
-                b.pop()
-        if len(b) == 0:
-            return True 
-        return False
+        return len(arr)==0
+
+        
