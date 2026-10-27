@@ -606,6 +606,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0304-range-sum-query-2d-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -712,6 +713,7 @@
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0933-number-of-recent-calls) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -793,4 +795,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
