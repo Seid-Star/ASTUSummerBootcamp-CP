@@ -25,6 +25,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
@@ -160,6 +161,7 @@
 | [0009-palindrome-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0836-rectangle-overlap) |
