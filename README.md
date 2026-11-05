@@ -46,6 +46,7 @@
 | [1254-number-of-closed-islands](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -352,6 +353,7 @@
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -398,6 +400,7 @@
 | [0278-first-bad-version](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -431,6 +434,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1840-maximum-building-height](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1840-maximum-building-height) |
