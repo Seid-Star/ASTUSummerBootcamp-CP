@@ -77,6 +77,7 @@
 | [2381-shifting-letters-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2381-shifting-letters-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2747-count-zero-request-servers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2747-count-zero-request-servers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -239,6 +240,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2747-count-zero-request-servers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -443,6 +445,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2747-count-zero-request-servers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -586,6 +589,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2747-count-zero-request-servers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2747-count-zero-request-servers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
