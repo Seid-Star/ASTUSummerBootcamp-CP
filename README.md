@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
@@ -402,6 +403,7 @@
 | [0278-first-bad-version](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
+| [0704-binary-search](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
