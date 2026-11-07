@@ -165,6 +165,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -396,6 +397,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
@@ -835,4 +837,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0933-number-of-recent-calls) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
