@@ -1,10 +1,27 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:
-        if target in nums:
-            a=nums.index(target)
-            b=len(nums)-1-nums[::-1].index(target)
-            return [a,b]
-        else:
-            return [-1,-1]
-
+    def searchRange(self, nums: list[int], target: int) -> list[int]:
+        range=[-1,-1]
+        low=0
+        high=len(nums)-1
+        while low<=high:
+            mid=(low+high)//2
+            if nums[mid]<target:
+                low=mid+1
+            elif nums[mid]>target:
+                high=mid-1
+            else:
+                range[0]=mid
+                high=mid-1
+        low=0
+        high=len(nums)-1
+        while low<=high:
+            mid=(low+high)//2
+            if nums[mid]<target:
+                low=mid+1
+            elif nums[mid]>target:
+                high=mid-1
+            else:
+                range[1]=mid
+                low=mid+1
+        return range
         
