@@ -43,6 +43,7 @@
 | [0877-stone-game](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0922-sort-array-by-parity-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1260-shift-2d-grid) |
@@ -406,6 +407,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
