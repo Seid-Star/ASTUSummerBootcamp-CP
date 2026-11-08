@@ -47,6 +47,7 @@
 | [1140-stone-game-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1386-cinema-seat-allocation) |
@@ -492,6 +493,7 @@
 | [0867-transpose-matrix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -559,6 +561,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
@@ -572,6 +575,7 @@
 | [0463-island-perimeter](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -610,6 +614,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1267-count-servers-that-communicate) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2029-stone-game-ix](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -676,6 +681,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Seid-Star/ASTUSummerBootcamp-CP/tree/master/2685-count-the-number-of-complete-components) |
